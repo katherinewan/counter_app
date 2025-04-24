@@ -1,0 +1,53 @@
+@import url('https://fonts.googleapis.com/css2?family=Anton&family=Architects+Daughter&family=Saira:ital,wght@0,100..900;1,100..900&family=Zen+Kaku+Gothic+Antique&display=swap');
+
+* {
+  background-color: #5E5768;
+  color: white;
+  box-sizing: border-box;
+  outline: none;
+  font-family: "Zen Kaku Gothic Antique", sans-serif;
+  font-weight: 500;
+}
+
+header {
+  justify-items: right;
+  margin: 5%;
+}
+
+main p {
+  font-size: 20px;
+}
+
+h1 {
+  border-bottom: 2px solid;
+}
+
+main {
+  justify-items: center;
+  align-items: center;
+  line-height: 2;
+}
+
+footer {
+  justify-items: center;
+  align-items: end;
+  font-size: 16px;
+}
+
+.btn {
+  cursor: pointer;
+  font-size: 30px;
+}
+
+.fa-trash {
+  list-style: 2px black;
+}
+
+#num {
+  font-size: 30px;
+}
+
+#bin {
+  justify-items: left;
+}
+
