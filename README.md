@@ -2,7 +2,8 @@
 
 A simple interactive counter that adds visual "trash" items when incrementing and clears them when resetting.
 
-![App Screenshot](screenshot.png) <!-- Add a screenshot if possible -->
+<img width="776" alt="Screenshot 2025-04-24 at 2 23 35 AM" src="https://github.com/user-attachments/assets/860e22ad-a227-41a9-b76a-5c1204576d94" />
+
 
 ## Features
 - Increment counter with + button
