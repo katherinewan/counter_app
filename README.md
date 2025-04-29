@@ -22,5 +22,3 @@ A simple interactive counter that adds visual "trash" items when incrementing an
 3. Click the + button to add trash
 4. Click reset to clear everything
 
-## License
-MIT License - see [LICENSE](LICENSE) file for details
