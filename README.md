@@ -15,3 +15,5 @@ A simple interactive counter that adds visual "trash" items (Just for fun
 - CSS3
 - JavaScript (ES6)
 
+## New things learned
+- Javascript: createElement(), .appendChild()
